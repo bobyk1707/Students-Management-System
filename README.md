@@ -1,5 +1,8 @@
 # Student Management System
 
+Project Link -- https://www.linkedin.com/posts/boby17_java-springboot-springmvc-activity-7467692033487564801-CxzT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD8ozWkBuzmcmfX4WuOplAzYe879ky5KcrE 
+
+
 A web-based Student Management System built using Spring Boot, Spring MVC, Thymeleaf, Spring Data JPA, Hibernate, MySQL, and Bootstrap. The application provides a simple and user-friendly interface to manage student records with CRUD (Create, Read, Update, Delete) operations.
 
 ## Features
